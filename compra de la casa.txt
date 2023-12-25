@@ -1,6 +1,10 @@
-- tv antes de fin de anno
-- comprar el comerdor
-- comprar sillon
-- comprar espejo
-- comprar ventilador
-- comprar tasas
+** COssas  sala
+   - tv antes de fin de anno
+   - comprar el comerdor - no 
+   - comprar ventilador
+** Cosas del comedro
+   - comprar sillon - si 
+   - comprar pal pelo
+   - comprar tasas
+** Cosas del Banno
+   - comprar espejo
