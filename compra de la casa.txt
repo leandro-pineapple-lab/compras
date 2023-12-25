@@ -9,3 +9,7 @@
    - cafee
 ** Cosas del Banno
    - comprar espejo
+** Caoss para el carro
+  - freno
+  - gasolina
+  - espejos
