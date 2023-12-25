@@ -1,3 +1,6 @@
-- tv antes de fin de anno
-- comprar el comerdor
-- comprar sillon
+** COssas  sala
+   - tv antes de fin de anno
+   - comprar el comerdor - no 
+
+** Cosas del comedro
+   - comprar sillon - si 
