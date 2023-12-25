@@ -6,5 +6,6 @@
    - comprar sillon - si 
    - comprar pal pelo
    - comprar tasas
+   - cafee
 ** Cosas del Banno
    - comprar espejo
